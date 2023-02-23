@@ -1,5 +1,5 @@
 {
-    "minVersion": "1.1",
+    "minVersion": "1.3",
     "upgradeMessage": "Your app is out of date, please click to upgrade.",
     "upgradeUrl": "https://github.com/ozapp/beenot-upgrade-switch/blob/main/upgrade-url.md"
 }
